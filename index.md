@@ -1,4 +1,4 @@
-##My Portfolio
+## My Portfolio
 
 ### Academic Projects
 These are the projects I worked on during my PhD.
