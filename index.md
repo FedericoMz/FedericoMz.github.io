@@ -5,9 +5,8 @@ These are the projects I worked on during my PhD.
 - **[_Frank_](https://github.com/FedericoMz/Frank/)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way.
 - **[_GenFair_](https://github.com/FedericoMz/GenFair)** is a data augmentation framework, that employs a genetic algorithm to create synthetic data to make a dataset fair. 
 - **[_FairNet_](https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
-- Out of GenFair, a Master's student developed her own algorithm, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised, and I experimented with _[GenBalance](https://github.com/FedericoMz/GenBalance)_. Respectively, they focused on fairness + privacy, and fairness + imbalanced learning.
 
-I also developed two simple tools that found their way into more advanced projects, [_Simple Counterfactual_](SimpleCounterfactual) and [_FairCheck_](https://github.com/FedericoMz/FairCheck).
+Out of GenFair, a Master's student from my University developed her own algorithm, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised, and I experimented with _[GenBalance](https://github.com/FedericoMz/GenBalance)_. Respectively, they focused on fairness + privacy, and fairness + imbalanced learning. I also developed two simple tools that found their way into _Frank_, [_Simple Counterfactual_](SimpleCounterfactual) and [_FairCheck_](https://github.com/FedericoMz/FairCheck).
 
 ---
 ## Personal Projects
