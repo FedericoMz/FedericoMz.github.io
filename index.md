@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Academic Projects
+## Academic Projects
 These are the projects I worked on during my PhD.
 
 - The **[_Trust Analyzer_](https://gricetrust.streamlit.app/)** is a WIP project, to analyze conversational trust either in a network of humans, or between a human user and an LLM.
@@ -14,13 +10,13 @@ These are the projects I worked on during my PhD.
 I also developed two simple tools that found their way into more advanced projects, [_Simple Counterfactual_](SimpleCounterfactual) and [_FairCheck_](https://github.com/FedericoMz/FairCheck).
 
 ---
-### Personal Projects
+## Personal Projects
 These are my more personal projects. :)
 
 - Remember those old black and white Game Boy games? **[_Simple Palette Maker_](https://github.com/FedericoMz/SimplePaletteMaker)** allows the user to colorize them when played on the Analogue Pocket.
 
 ---
-### Test Projects
+## Test Projects
 Here are the projects I developed either as a test, or when I was a University student. The code might be a little dirty!
 
 - **[_Django_](https://github.com/FedericoMz/DjangoTest)**. Managing restaurants, recipes, and ingredients.
@@ -30,16 +26,3 @@ Here are the projects I developed either as a test, or when I was a University s
 - **[_Social Network Analysis_](https://github.com/andreafailla/Who-Made-the-Switch)**. Temporal analysis of Nintendo communities from Twitter.
 - **[_Statistics_](https://github.com/FedericoMz/StagedPolitics)**. Textual and statistical analysis of tweets from Italian politicians.
 - **[_Advanced Data Mining_](https://github.com/FedericoMz/StagedPolitics)**. Analysis and classification of songs with advanced Data Mining techniques.
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
