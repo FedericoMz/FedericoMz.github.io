@@ -16,7 +16,7 @@ These are my more personal projects. :)
 
 ---
 ## Test Projects
-Here are the projects I developed either as a test, or when I was a University student. The code might be a little dirty!
+Here are the projects I developed either as a test, or when I was an University student. The code might be a little dirty!
 
 - **[_Django_](https://github.com/FedericoMz/DjangoTest)**. Managing restaurants, recipes, and ingredients.
 - **[_Text Analytics_](https://github.com/ericacau/Text-Analytics)**. Classifying the genre of several books from GoodReads.
