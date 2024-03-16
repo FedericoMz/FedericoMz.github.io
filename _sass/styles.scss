@@ -1,0 +1,9 @@
+// Override link styling to prevent bolding when clicked
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}
