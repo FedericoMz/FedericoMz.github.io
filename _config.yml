@@ -2,7 +2,9 @@ title: Federico Mazzoni # your name (or website title) here
 logo: "/images/photo_f.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
+  <p align="justify">
   Hi! I'm currently a PhD Fellow in AI at the University of Pisa, with a background in Data Science. On this page, you'll find a compilation of the projects I've undertaken over the years, whereas <a href="https://flowcv.com/resume/mvwcmvh8l1">here</a> you can find my up-to-date CV. I love going out of my comfort zone to learn something new.
+  </p>
   <br><br>
   <a href="mailto:mazzoni.federico1@gmail.com">Send me an e-mail</a> 
   <br><br>
