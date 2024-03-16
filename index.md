@@ -15,6 +15,7 @@ Out of _GenFair_, a Master's student from my University developed her own algori
 These are my more personal projects. :)
 
 - Remember those old black and white Game Boy games? **[_Simple Palette Maker_](https://github.com/FedericoMz/SimplePaletteMaker)** allows the user to colorize them when played on the Analogue Pocket.
+  
 ---
 ### Test Projects
 Here are the projects I developed either as a test, or when I was an University student. The code might be a little dirty!
