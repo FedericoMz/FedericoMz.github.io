@@ -9,13 +9,11 @@ These are the projects I worked on during my PhD.
 - **[_FairNet_](https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
 
 Out of GenFair, a Master's student from my University developed her own algorithm, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised, and I experimented with _[GenBalance](https://github.com/FedericoMz/GenBalance)_. Respectively, they focused on fairness + privacy, and fairness + imbalanced learning. I also developed two simple tools that found their way into _Frank_, [_Simple Counterfactual_](SimpleCounterfactual) and [_FairCheck_](https://github.com/FedericoMz/FairCheck).
-
 ---
 ### Personal Projects
 These are my more personal projects. :)
 
 - Remember those old black and white Game Boy games? **[_Simple Palette Maker_](https://github.com/FedericoMz/SimplePaletteMaker)** allows the user to colorize them when played on the Analogue Pocket.
-
 ---
 ### Test Projects
 Here are the projects I developed either as a test, or when I was an University student. The code might be a little dirty!
