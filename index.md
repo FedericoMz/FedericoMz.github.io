@@ -4,7 +4,7 @@
 These are the projects I worked on during my PhD.
 
 - The **[_Trust Analyzer_](https://gricetrust.streamlit.app/)** is a WIP project. It aims to analyze conversational trust either in a network of humans, or between a human user and an LLM.
-- **[_Frank_](https://github.com/FedericoMz/Frank/)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way.
+- **[_Frank_](https://github.com/FedericoMz/Frank/)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way. Developed as part of the EU [TANGO Project](https://tango-horizon.eu/).
 - **[_GenFair_](https://github.com/FedericoMz/GenFair)** is a data augmentation framework, that employs a genetic algorithm to create synthetic data to make a dataset fair. 
 - **[_FairNet_](https://github.com/FedericoMz/FedericoMzOld.github.io/raw/main/FairNet_Poster.pdf)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
 
@@ -26,4 +26,4 @@ Here are the projects I developed either as a test, or when I was an University 
 - **[_Distributed Data Mining_](https://github.com/FedericoMz/DDAM-APPEAL)**. Distributed analysis of a large dataset of Android apps.
 - **[_Social Network Analysis_](https://github.com/andreafailla/Who-Made-the-Switch)**. Temporal analysis of Nintendo communities from Twitter.
 - **[_Statistics_](https://github.com/FedericoMz/StagedPolitics)**. Textual and statistical analysis of tweets from Italian politicians.
-- **[_Advanced Data Mining_](https://github.com/FedericoMz/StagedPolitics)**. Analysis and classification of songs with advanced Data Mining techniques.
+- **[_Advanced Data Mining_](https://github.com/FedericoMz/DM2-FMAProject)**. Analysis and classification of songs with advanced Data Mining techniques.
