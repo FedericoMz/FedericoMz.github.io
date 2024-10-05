@@ -5,11 +5,9 @@ These are the projects I worked on during my PhD.
 
 - **[_TETRA_](https://github.com/simonamazzarino/TETRA)** (TExtual TRust Analyzer) allows analyzing conversational trust following three linguistic maxims. It has been tested in a network of humans.
 - **[_Frank_](https://github.com/FedericoMz/Frank/)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way. Developed as part of the EU [TANGO Project](https://tango-horizon.eu/).
-- **[_BRIDGET_](https://arxiv.org/abs/2409.19415)** aims to "bridge the gap" between Hybrid Decision-Making systems were the users is in command (such as Frank) and those where the machine is in command (such as Learning-to-Defer). It dynamically switches between the two states.
-- **[_GenFair_](https://github.com/FedericoMz/GenFair)** is a data augmentation framework. It employs a genetic algorithm to create synthetic data to make a dataset fair. Developed as my Master's thesis.
+- **[_Bridget_](https://arxiv.org/abs/2409.19415)** aims to "bridge the gap" between Hybrid Decision-Making systems were the users is in command (such as Frank) and those where the machine is in command (such as Learning-to-Defer). It dynamically switches between the two states.
+- **[_GenFair_](https://github.com/FedericoMz/GenFair)** is a data augmentation framework. It employs a genetic algorithm to create synthetic data to make a dataset fair. Developed as my Master's thesis. A Master's student from my University later developed her own algorithm based on GenFair, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised. It is focused on privacy & fairness.
 - **[_FairNet_](https://github.com/FedericoMz/FedericoMzOld.github.io/raw/main/FairNet_Poster.pdf)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
-
-Out of _GenFair_, a Master's student from my University developed her own algorithm, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised, and I experimented with _[GenBalance](https://github.com/FedericoMz/GenBalance)_. Respectively, they focused on fairness + privacy, and fairness + imbalanced learning. I also developed two simple tools that found their way into _Frank_, [_Simple Counterfactual_](SimpleCounterfactual) and [_FairCheck_](https://github.com/FedericoMz/FairCheck).
 
 ---
 ### Personal Projects
