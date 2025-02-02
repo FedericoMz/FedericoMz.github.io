@@ -3,11 +3,11 @@
 ### Academic Projects
 These are the projects I worked on during my PhD.
 
-- **[_TETRA_](https://github.com/simonamazzarino/TETRA)** (TExtual TRust Analyzer) allows analyzing conversational trust following three linguistic maxims. It has been tested in a network of humans.
+- **[_TETRA_](https://link.springer.com/chapter/10.1007/978-3-031-78980-9_23)** (TExtual TRust Analyzer) allows analyzing conversational trust following three linguistic maxims. It has been tested in a network of humans.
 - **[_Frank_](https://link.springer.com/chapter/10.1007/978-3-031-58553-1_19)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way. Developed as part of the EU [TANGO Project](https://tango-horizon.eu/).
 - **[_Bridget_](https://arxiv.org/abs/2409.19415)** aims to "bridge the gap" between Hybrid Decision-Making systems where the users are in command (such as Frank) and those where the machine is in command (such as Learning-to-Defer). It dynamically switches between the two states.
 - **[_GenFair_](https://link.springer.com/chapter/10.1007/978-3-031-58553-1_19)** is a data augmentation framework. It employs a genetic algorithm to create synthetic data to make a dataset fair. Developed as my Master's thesis. A Master's student from my University later developed her own algorithm based on GenFair, _[SafeGen](https://github.com/rossiele/SafeGen)_, which I supervised. It is focused on privacy & fairness.
-- **[_FairNet_](https://github.com/FedericoMz/FedericoMzOld.github.io/raw/main/FairNet_Poster.pdf)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
+- **[_FairNet_](https://link.springer.com/chapter/10.1007/978-3-031-78541-2_9)** is GenFair's counterpart for networks. We assumed that in a "fair" network, no group should be marginalized, and we created a recommender system to achieve that condition.
 
 ---
 ### Personal Projects
