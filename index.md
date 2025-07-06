@@ -3,7 +3,7 @@
 ### Personal Projects
 These are my more personal projects. :)
 
-- **_StockAgent_** is a multi-agent AutoGen system that generates stock market suggestions. It includes a custom MCP server using yfinance. I am currently working on it in my free time.
+- **[_StockAgent_](https://github.com/FedericoMz/StockAgent)** is a multi-agent AutoGen system that generates stock market suggestions. It includes a custom MCP server using yfinance.
 - **[_HINTT_](https://github.com/FedericoMz/HINTT)** Is Not a Traditional Translator, but an interactive localisation tool for real-time text translation leveraging OpenAI visual capabilities.
 - Remember those old black and white Game Boy games? **[_Simple Palette Maker_](https://github.com/FedericoMz/SimplePaletteMaker)** allows the user to colorize them when played on the Analogue Pocket.
 
