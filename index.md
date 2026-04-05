@@ -9,7 +9,7 @@ These are my more personal projects. :)
 
 ---
 ### Academic Projects
-These are the projects I worked on during my PhD. The code might be a little messy and not up to my current standard. You can check my Google Scholar profile [here](https://scholar.google.co.uk/citations?user=D68JTJwAAAAJ&hl=it&oi=sra).
+These are the projects I worked on during my PhD. The code might be a little messy and not up to my current standard. You can check my Google Scholar profile [here](https://scholar.google.co.uk/citations?user=D68JTJwAAAAJ).
 
 - **[_TETRA_](https://link.springer.com/chapter/10.1007/978-3-031-78980-9_23)** (TExtual TRust Analyzer) is a Python library to analyse conversational trust following three linguistic maxims. We made use of Sentence Transformers, Information Density detection, and existing libraries. [Code](https://github.com/simonamazzarino/TETRA/).
 - **[_Frank_](https://link.springer.com/chapter/10.1007/978-3-031-58553-1_19)** is a Hybrid Decision-Making system, learning little by little from the user to help them make good, unbiased, and consistent decisions. It employs Incremental Learning in a novel way. Developed as part of the EU [TANGO Project](https://tango-horizon.eu/). [Code](https://github.com/FedericoMz/Frank/).
