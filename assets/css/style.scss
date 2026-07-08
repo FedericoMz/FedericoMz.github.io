@@ -6,7 +6,12 @@
 header {
   max-height: calc(100vh - 100px);
   overflow-y: auto;
+  scrollbar-width: none;
   text-align: center;
+}
+
+header::-webkit-scrollbar {
+  display: none;
 }
 
 header img {
