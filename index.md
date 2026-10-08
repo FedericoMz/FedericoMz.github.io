@@ -1,10 +1,11 @@
 ## My Portfolio
 
-### Personal Projects
-These are my more personal projects. :)
-
-- **[_iRAG_](https://github.com/FedericoMz/iRAG)** is my latest personal project. It is an experimental system for settings where a RAG knowledge base does not exist in advance, but is built incrementally through collaboration between a human user and an LLM, with the model progressively assuming greater autonomy.
+### Latest Personal Projects
+- I just published a paper **[benchmarking Jev and Laya, two System One Models, for online content moderation](https://arxiv.org/abs/2610.07953)**. Some really interesting findings, especially for Jev with a RAG-like setting!
+- **[_iRAG_](https://github.com/FedericoMz/iRAG)** is an experimental system for settings where a RAG knowledge base does not exist in advance, but is built incrementally through collaboration between a human user and an LLM, with the model progressively assuming greater autonomy.
 - **_GAVEL_** a framework based on Game Theory to benchmark AI model behaviour and decision-making from an ethical point of view. Currently still in development.
+
+### Older Personal Projects
 - **[_StockAgent_](https://github.com/FedericoMz/StockAgent)** is a multi-agent AutoGen system that generates stock market insights. It includes a custom MCP server using yfinance. I developed this as PoC back when MCPs were a novelty, to understand how they work.
 - **[_HINTT_](https://github.com/FedericoMz/HINTT)** Is Not a Traditional Translator, but an interactive localisation tool for real-time text translation leveraging OpenAI visual capabilities.
 - Remember those old black and white Game Boy games? **[_Simple Palette Maker_](https://github.com/FedericoMz/SimplePaletteMaker)** allows the user to colorize them when played on the Analogue Pocket.
