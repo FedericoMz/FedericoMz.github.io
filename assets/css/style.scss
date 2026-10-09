@@ -7,6 +7,12 @@ body {
   background-color: #e9e7e3;
 }
 
+hr {
+  height: 2px;
+  background-color: #a69e8d;
+  border: 0;
+}
+
 header {
   max-height: calc(100vh - 100px);
   overflow-y: auto;
