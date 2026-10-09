@@ -35,6 +35,11 @@ header p {
   text-align-last: left;
 }
 
+section {
+  text-align: justify;
+  text-align-last: left;
+}
+
 a:hover, a:focus {
   text-decoration: underline;
   font-weight:unset;
