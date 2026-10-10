@@ -1,7 +1,7 @@
 ## My Portfolio
 
 ### Latest Personal Projects
-- I just published a paper **[benchmarking Jev and Laya, two System One Models, for online content moderation](https://arxiv.org/abs/2610.07953)**. Some really interesting findings, especially for Jev with a RAG-like setting!
+- I just published a paper **[benchmarking Jev and Laya, two System One Models, in online content moderation](https://arxiv.org/abs/2610.07953)**. Some really interesting findings, especially for Jev with a RAG-like setting!
 - **[_iRAG_](https://github.com/FedericoMz/iRAG)** is an experimental system for settings where a RAG knowledge base does not exist in advance, but is built incrementally through collaboration between a human user and an LLM, with the model progressively assuming greater autonomy. Interactive demo [here](https://federicomz.github.io/iRAG/) (assuming a CRM use case).
 - **_GAVEL_** is a game theory-based framework for benchmarking AI model behaviour and ethical decision-making. It is currently under development.
 
